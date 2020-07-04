@@ -1,0 +1,12 @@
+c:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\nanomsg-sys-0.7.2\target\rls\debug\deps\cc-b1319e37467befc1.rmeta: C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\lib.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\registry.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\winapi.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\com.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\setup_config.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\windows_registry.rs
+
+c:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\nanomsg-sys-0.7.2\target\rls\debug\deps\libcc-b1319e37467befc1.rlib: C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\lib.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\registry.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\winapi.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\com.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\setup_config.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\windows_registry.rs
+
+c:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\nanomsg-sys-0.7.2\target\rls\debug\deps\cc-b1319e37467befc1.d: C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\lib.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\registry.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\winapi.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\com.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\setup_config.rs C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\windows_registry.rs
+
+C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\lib.rs:
+C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\registry.rs:
+C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\winapi.rs:
+C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\com.rs:
+C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\setup_config.rs:
+C:\Users\Jonas\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.57\src\windows_registry.rs:
